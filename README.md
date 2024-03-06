@@ -1,5 +1,5 @@
-#Proyecto de Enseñanza Tutorial Midudev Web Esland
-## Astro Starter Kit: Basics
+# Proyecto de Enseñanza Tutorial Midudev Web Esland
+#Astro Starter Kit: Basics
 
 ```sh
 npm create astro@latest -- --template basics
